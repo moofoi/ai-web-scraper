@@ -14,4 +14,4 @@ and extract insights from website content automatically.
 Python • BeautifulSoup • Gemini API • Streamlit
 
 ## Live Demo
-[Click here](ใส่ link Streamlit)
+[Click here](https://ai-web-scraper-demo.streamlit.app/)
